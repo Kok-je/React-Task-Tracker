@@ -2,7 +2,7 @@
 
 This is a personal project in my quest to master REACT, and collect all the infinity stones (MERN). 
 
-![Captured Screenshot of Task Tracker in Browser](src\images\Capture.PNG)
+![Captured Screenshot of Task Tracker in Browser](./src/images/Capture.PNG)
 
 ## About
 
